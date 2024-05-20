@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-color: #abcbbb;
+    background-color: #d5d5d2;
     color: #9fb9a4;
     font-family: inherit;
     justify-content: center;
@@ -17,9 +17,9 @@ body {
     margin: 0;
 }
 #initial {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: monospace;
     color: #3e5c4e;
-    background-color: #abcbbb;
+    background-color: #d5d5d2;
     border-color: #3e5c4e;
     border-width: 0.2rem;
     border-top-left-radius: 1rem;
@@ -28,17 +28,45 @@ body {
     border-bottom-right-radius: 1rem;
     text-align: left;
     position: absolute;
-    left: 40%;
-    width: 60%;
-    height: 60%;
+    left: 25%;
+    width: 75%;
+    height: 40%;
+    top: 50%;
     font-size: 1.5em;
+}
+
+#project {
+    position: absolute;
+    background-color: #3F4B46;
+    font-family: monospace;
+    color: #9fb9a4; 
+    left: 80%;
+    top: 15%;
+    font-size: 1.5em;
+    width: 10%;
+    height: 20%;
+}
+#writing {
+    position: absolute;
+    background-color: #3F4B46;
+    font-family: monospace;
+    color: #9fb9a4;
+    left: 90%;
+    top: 15%;
+    font-size: 1.5em;
+    width: 10%;
+    height: 20%;
+}
+a:hover {
+    background-color: #333c38;
 }
 
 #logo {
     position: absolute;
-    left: 0%;
-    width: 20%;
-    height: 20%;
+    left: 15%;
+    top: 20%;
+    width: 60%;
+    height: 60%;
 }
 
 #im {
@@ -51,10 +79,11 @@ body {
 
 #box {
     position: absolute;
-    left: 20%;
-    top: 20%;
-    width: 80%;
-    height: 50%;
+    background-color: #3F4B46;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 40%;
 }
 
 #text {
@@ -63,6 +92,18 @@ body {
     top: 0%;
     width: 60%;
     height: 60%;
+    font-family: monospace;
+}
+
+#head {
+    position: absolute;
+    font-family: monospace;
+    font-size: 5em;
+    color: #9dbcac;
+    left: 20%;
+    top: 40%;
+    width: 80%;
+    height: 80%;
 }
 
 #projects {
