@@ -16,7 +16,7 @@ body {
     line-height: inherit;
     margin: 0;
 }
-.initial {
+#initial {
     font-family: 'Courier New', Courier, monospace;
     color: #3e5c4e;
     background-color: #abcbbb;
@@ -37,8 +37,8 @@ body {
 #logo {
     position: absolute;
     left: 0%;
-    width: 60%;
-    height: 60%;
+    width: 40%;
+    height: 40%;
 }
 
 #im {
