@@ -34,7 +34,12 @@ body {
     top: 50%;
     font-size: 1.5em;
 }
-
+a {
+    background-color: #3F4B46;
+    font-family: monospace;
+    color: #9fb9a4;
+    
+}
 #project {
     position: absolute;
     background-color: #3F4B46;
