@@ -133,7 +133,7 @@ body {
         top: 10%;
         left: 15%;
         width: 70%;
-        height: 60%;
+        height: 40%;
     }
 
     #p2 {
@@ -146,7 +146,7 @@ body {
         top: 80%;
         left: 15%;
         width: 70%;
-        height: 60%;
+        height: 40%;
     }
 
     #p3 {
@@ -159,7 +159,7 @@ body {
         top: 150%;
         left: 15%;
         width: 70%;
-        height: 60%;
+        height: 40%;
     }
 
     #p4 {
@@ -172,7 +172,7 @@ body {
         top: 220%;
         left: 15%;
         width: 70%;
-        height: 60%;
+        height: 40%;
     }
 
     #p5 {
@@ -185,12 +185,12 @@ body {
         top: 290%;
         left: 15%;
         width: 70%;
-        height: 60%;
+        height: 40%;
     }
 
     .video {
         position: absolute;
-        left: 25%;
+        left: 5%;
         top: 40%;
         width: 45%;
         height: 75%;
@@ -198,8 +198,8 @@ body {
 
     #cvid {
         position: absolute;
-        left: 55%;
-        top: 20%;
+        left: 5%;
+        top: 40%;
         width: 15%;
         height: 15%;
     }
