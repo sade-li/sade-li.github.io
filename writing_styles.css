@@ -53,21 +53,21 @@ body {
 #description {   
     text-align: left;
     font-family: monospace;
-    color: #3e5c4e;
+    color: #3F4B46;
     font-size: 100%;
 }
 #current {
     font-family: monospace;
-    color: #3e5c4e;
+    color: #3F4B46;
     background-color: #d5d5d2;
     border-radius: 2%;
     font-size: 1.5em;
-    text-align: center;
+    text-align: left;
     position: absolute;
     top: 20%;
-    left: 10%;
-    width: 80%;
-    height: 40%;
+    left: 20%;
+    width: 60%;
+    height: 60%;
 }
     
 #history {
@@ -78,8 +78,46 @@ body {
     font-size: 1.5em;
     text-align: center;
     position: absolute;
-    top: 70%;
+    top: 55%;
     left: 10%;
     width: 80%;
     height: 40%;
+}
+
+.libbtn {
+    background-color: #3F4B46;
+    color: #9fb9a4;
+    border-width: 0px;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    font-size: 1.5em;
+}
+.libdown {
+    position: absolute;
+    top: 0%;
+    left: 90%;
+    width: 10%;
+    height: 8%;
+    display: inline-block;
+}
+.lib-content {
+    display: none;
+    position: absolute;
+    background-color: #3F4B46;
+    width: 100%;
+    z-index: 1;
+}
+.lib-content a {
+    color: #d5d5d2;
+    display: block;
+    font-size: 1em;
+    border-width: 1%;
+    border-color: #3F4B46;
+}
+.lib-content a:hover {
+    background-color: #3e5c4e;
+}
+.libdown:hover .lib-content {
+    display: block;
 }
