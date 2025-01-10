@@ -66,13 +66,13 @@ a:visited {
     font-family: monospace;
     color: #3F4B46;
     background-color: #d5d5d2;
-    border-radius: 2%;
+    border-radius: 10%;
     font-size: 1em;
     text-align: left;
     position: absolute;
     top: 35%;
-    left: 8%;
-    width: 60%;
+    left: 15%;
+    width: 80%;
     height: 50%;
 }
 
@@ -96,10 +96,10 @@ a:visited {
     text-align: left;
     align-items: center;
     position: absolute;
-    top: 35%;
-    left: 55%;
-    width: 40%;
-    height: 50%;
+    top: 60%;
+    left: 15%;
+    width: 80%;
+    height: 40%;
 }
 .currents {
    font-family: monospace;
@@ -107,56 +107,74 @@ a:visited {
    text-align: left; 
    color: #3F4B46;
    background-color: #b0c2b3;
-   width: 50%;
-   height: 60%;
-   border-radius: 3%;
+   width: 90%;
+   height: 30%;
+   border-radius: 1.5%;
 }
 
 #histories1 {
     font-family: monospace;
     font-size: 0.8;
-    text-align: left; 
+    text-align: center; 
     display: flex;
     align-items: center;
     color: #3e5c4e;
     background-color: #b0c2b3;
     position:absolute;
-    width: 90%;
-    height: 15%;
+    width: 15%;
+    height: 35%;
     top: 18%;
-    border-radius: 6%;
+    border-radius: 2%;
 }
 #histories2 {
     font-family: monospace;
     font-size: 0.8;
-    text-align: left; 
+    text-align: center; 
     display: flex;
     align-items: center;
+    justify-content: center;
     color: #3e5c4e;
     background-color: #b0c2b3;
     position: absolute;
-    width: 90%;
-    height: 15%;
-    top: 38%;
-    border-radius: 6%;
+    width: 15%;
+    height: 35%;
+    top: 18%;
+    left: 18%;
+    border-radius: 2%;
 }
 
 #histories3 {
     font-family: monospace;
     font-size: 0.8;
-    text-align: left; 
+    text-align: center; 
     display: flex;
     align-items: center;
     color: #3e5c4e;
     background-color: #b0c2b3;
     position: absolute;
-    width: 90%;
-    height: 15%;
-    top: 58%;
-    border-radius: 6%;
+    width: 15%;
+    height: 35%;
+    top: 18%;
+    left: 36%;
+    border-radius: 2%;
 }
 
 #histories4 {
+    font-family: monospace;
+    font-size: 0.8;
+    text-align: center; 
+    display: flex;
+    align-items: center;
+    color: #3e5c4e;
+    background-color: #b0c2b3;
+    position: absolute;
+    width: 15%;
+    height: 35%;
+    top: 18%;
+    left: 54%;
+    border-radius: 2%;
+}
+#histories5 {
     font-family: monospace;
     font-size: 0.8;
     text-align: left; 
@@ -165,8 +183,9 @@ a:visited {
     color: #3e5c4e;
     background-color: #b0c2b3;
     position: absolute;
-    width: 90%;
-    height: 15%;
-    top: 78%;
-    border-radius: 6%;
+    width: 15%;
+    height: 35%;
+    top: 18%;
+    left: 72%;
+    border-radius: 2%;
 }
