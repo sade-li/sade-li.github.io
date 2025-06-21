@@ -121,10 +121,10 @@ a:visited {
     color: #3e5c4e;
     background-color: #b0c2b3;
     position:absolute;
-    width: 15%;
-    height: 35%;
+    width: 70%;
+    height: 10%;
     top: 18%;
-    border-radius: 2%;
+    border-width: 10%;
 }
 #histories2 {
     font-family: monospace;
@@ -136,11 +136,10 @@ a:visited {
     color: #3e5c4e;
     background-color: #b0c2b3;
     position: absolute;
-    width: 15%;
-    height: 35%;
-    top: 18%;
-    left: 18%;
-    border-radius: 2%;
+    width: 70%;
+    height: 10%;
+    top: 32%;
+    border-width: 10%;
 }
 
 #histories3 {
@@ -152,11 +151,10 @@ a:visited {
     color: #3e5c4e;
     background-color: #b0c2b3;
     position: absolute;
-    width: 15%;
-    height: 35%;
-    top: 18%;
-    left: 36%;
-    border-radius: 2%;
+    width: 70%;
+    height: 10%;
+    top: 46%;
+    border-width: 10%;
 }
 
 #histories4 {
@@ -168,11 +166,10 @@ a:visited {
     color: #3e5c4e;
     background-color: #b0c2b3;
     position: absolute;
-    width: 15%;
-    height: 35%;
-    top: 18%;
-    left: 54%;
-    border-radius: 2%;
+    width: 70%;
+    height: 10%;
+    top: 60%;
+    border-width: 10%;
 }
 #histories5 {
     font-family: monospace;
