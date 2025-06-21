@@ -166,7 +166,7 @@ body {
         display: none;
     }
     #description {
-        position: relative;
+        position: absolute;
         left: 5%;
         top: 15%;
         width: 90%;
@@ -188,7 +188,7 @@ body {
         top: 10%;
         left: 6%;
         width: 43%;
-        height: 50%;
+        height: 40%;
     }
 
     #p2 {
@@ -201,7 +201,7 @@ body {
         top: 10%;
         left: 51%;
         width: 43%;
-        height: 50%;
+        height: 40%;
     }
 
     #p3 {
@@ -214,7 +214,7 @@ body {
         top: 65%;
         left: 6%;
         width: 43%;
-        height: 50%;
+        height: 40%;
     }
 
     #p4 {
@@ -227,7 +227,7 @@ body {
         top: 65%;
         left: 51%;
         width: 43%;
-        height: 50%;
+        height: 40%;
     }
 
     #p5 {
@@ -240,7 +240,7 @@ body {
         top: 120%;
         left: 6%;
         width: 43%;
-        height: 50%;
+        height: 40%;
     }
 
     #p6 {
@@ -253,7 +253,7 @@ body {
         top: 120%;
         left: 51%;
         width: 43%;
-        height: 50%;
+        height: 40%;
     }
 
     #p7 {
@@ -266,7 +266,7 @@ body {
         top: 175%;
         left: 30%;
         width: 45%;
-        height: 50%;
+        height: 40%;
     }
 
 }
