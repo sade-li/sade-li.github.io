@@ -28,7 +28,7 @@ body {
     border-bottom-right-radius: 1rem;
     text-align: left;
     position: absolute;
-    left: 25%;
+    left: 20%;
     width: 75%;
     height: 40%;
     top: 50%;
@@ -95,7 +95,7 @@ a:hover {
     position: absolute;
     left: 0%;
     top: 0%;
-    width: 60%;
+    width: 80%;
     height: 60%;
     font-family: monospace;
 }
