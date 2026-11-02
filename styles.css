@@ -68,10 +68,12 @@ a:hover {
 
 #logo {
     position: absolute;
-    left: 15%;
-    top: 20%;
-    width: 60%;
-    height: 60%;
+    left: 1%;
+    top: 4%;
+    width: 96%;
+    height: 18%;
+    background-color: #3F4B46;
+
 }
 
 #im {
@@ -79,16 +81,61 @@ a:hover {
     border-top-right-radius: 1rem;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
-    border-width: 2rem;
+    border-width: 4rem;
 }
 
-#box {
+#research {
+    font-family: monospace;
+    font-size: 0.8;
+    text-align: left; 
+    display:grid;
+    color: #3e5c4e;
+    background-color: #b0c2b3;
+    position: absolute;
+    width: 50%;
+    height: 24%;
+    top: 29%;
+    left: 7%;
+    border-width: 10rem;
+    border-radius: 1rem;
+
+}
+.textblocks {
+    font-family: monospace;
+    font-size: 0.8;
+    text-align: left; 
+    display:grid;
+    color: #3e5c4e;
+    background-color: #b0c2b3;
+    position: absolute;
+    top: 5%;
+    left: 3%;
+}
+#experience {
+    font-family: monospace;
+    font-size: 0.8;
+    text-align: left; 
+    display:grid;
+    color: #3e5c4e;
+    background-color: #b0c2b3;
+    position: absolute;
+    width: 50%;
+    height: 38%;
+    top: 57%;
+    left: 42%;
+    border-width: 10rem;
+    border-radius: 1rem;
+
+}
+
+
+#header {
     position: absolute;
     background-color: #3F4B46;
     left: 0%;
     top: 0%;
     width: 100%;
-    height: 40%;
+    height: 18%;
 }
 
 #text {
